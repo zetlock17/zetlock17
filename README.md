@@ -7,7 +7,7 @@ I am a student at FEFU, majoring in Applied Informatics, specializing in Develop
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@zetlock17&theme=tokyonight&hide_border=false)<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zetlock17&layout=compact)<br/>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
