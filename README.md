@@ -7,6 +7,14 @@ I am a student at FEFU, majoring in Applied Informatics, specializing in Develop
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=@zetlock17&theme=tokyonight&hide_border=false)<br/>
 
+<hr>
+
+<div align="center">
+
+[![zetlock's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=zetlock17&theme=radical&langs_count=20&layout=compact)](https://github.com/zetlock17)
+
+<hr>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
