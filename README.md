@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student at FEFU, majoring in Applied Informatics, specializing in Development and Management of Digital Products.<br>I am currently studying Web Development and C.
+I am a student at FEFU, majoring in Applied Informatics, specializing in Development and Management of Digital Products.<br>I am currently studying Web Development, ML and C.
 
 
 # 💻 Tech Stack:
