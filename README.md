@@ -9,6 +9,10 @@ I am a student at FEFU, majoring in Applied Informatics, specializing in Develop
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zetlock17&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zetlock17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📫 Contact Me:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zetlock17)
+[![VK](https://img.shields.io/badge/VK-%230077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/zetlock)
+[![Lichess](https://img.shields.io/badge/Lichess-%23000000?style=for-the-badge&logo=lichess&logoColor=white)](https://lichess.org/@/zetlock17)
+
 ---
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@zetlock17)
 [![](https://visitcount.itsvg.in/api?id=zetlock17&icon=5&color=0)](https://visitcount.itsvg.in)
