@@ -10,4 +10,5 @@ I am a student at FEFU, majoring in Applied Informatics, specializing in Develop
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zetlock17&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://web.telegram.org/k/#@zetlock17)
 [![](https://visitcount.itsvg.in/api?id=zetlock17&icon=5&color=0)](https://visitcount.itsvg.in)
