@@ -42,6 +42,8 @@
     <td>
       💫 About Me:<br>
 I am a student at FEFU, majoring in Applied Informatics, specializing in Development and Management of Digital Products.<br>I am currently studying web development and what the university will require .
+      <br> <br>
+      I don’t yet know what image to put to the left of this text, so for now, it will be my university’s logo.
     </td>
   </tr>
 </table>
